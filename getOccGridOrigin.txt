@@ -1,0 +1,1674 @@
+-10.3267
+ -10
+ end_of_params 
+-10.3203
+ -10
+ end_of_params 
+-10.3117
+ -9.99999
+ end_of_params 
+-10.3019
+ -9.99998
+ end_of_params 
+-10.2867
+ -9.99994
+ end_of_params 
+-10.273
+ -9.99988
+ end_of_params 
+-10.2564
+ -9.99973
+ end_of_params 
+-10.2302
+ -9.99929
+ end_of_params 
+-10.2072
+ -9.99868
+ end_of_params 
+-10.1897
+ -9.99808
+ end_of_params 
+-10.1854
+ -9.99792
+ end_of_params 
+-10.1748
+ -9.99747
+ end_of_params 
+-10.1577
+ -9.99666
+ end_of_params 
+-10.1307
+ -9.99513
+ end_of_params 
+-10.1099
+ -9.99378
+ end_of_params 
+-10.0889
+ -9.99229
+ end_of_params 
+-10.0575
+ -9.98992
+ end_of_params 
+-10.0304
+ -9.98771
+ end_of_params 
+-10.0012
+ -9.98517
+ end_of_params 
+-9.96013
+ -9.9813
+ end_of_params 
+-9.92785
+ -9.978
+ end_of_params 
+-9.89484
+ -9.97435
+ end_of_params 
+-9.85042
+ -9.96905
+ end_of_params 
+-9.8168
+ -9.96474
+ end_of_params 
+-9.78279
+ -9.96012
+ end_of_params 
+-9.73323
+ -9.9531
+ end_of_params 
+-9.69289
+ -9.94734
+ end_of_params 
+-9.65123
+ -9.94143
+ end_of_params 
+-9.59342
+ -9.93335
+ end_of_params 
+-9.54851
+ -9.92717
+ end_of_params 
+-9.502
+ -9.92087
+ end_of_params 
+-9.43773
+ -9.91246
+ end_of_params 
+-9.38764
+ -9.90627
+ end_of_params 
+-9.33643
+ -9.90042
+ end_of_params 
+-9.26609
+ -9.89319
+ end_of_params 
+-9.2112
+ -9.88824
+ end_of_params 
+-9.15487
+ -9.88379
+ end_of_params 
+-9.07696
+ -9.87848
+ end_of_params 
+-9.01621
+ -9.87447
+ end_of_params 
+-8.95419
+ -9.87012
+ end_of_params 
+-8.86868
+ -9.86366
+ end_of_params 
+-8.80282
+ -9.85836
+ end_of_params 
+-8.73513
+ -9.85264
+ end_of_params 
+-8.66613
+ -9.84661
+ end_of_params 
+-8.572
+ -9.8386
+ end_of_params 
+-8.49994
+ -9.83304
+ end_of_params 
+-8.40135
+ -9.82649
+ end_of_params 
+-8.32549
+ -9.82212
+ end_of_params 
+-8.24761
+ -9.8181
+ end_of_params 
+-8.1413
+ -9.81331
+ end_of_params 
+-8.05978
+ -9.81035
+ end_of_params 
+-7.97676
+ -9.80818
+ end_of_params 
+-7.86321
+ -9.80634
+ end_of_params 
+-7.77582
+ -9.8051
+ end_of_params 
+-7.68681
+ -9.8034
+ end_of_params 
+-7.56569
+ -9.79994
+ end_of_params 
+-7.47304
+ -9.79624
+ end_of_params 
+-7.37956
+ -9.79147
+ end_of_params 
+-7.25223
+ -9.78349
+ end_of_params 
+-7.15479
+ -9.7767
+ end_of_params 
+-7.05601
+ -9.76952
+ end_of_params 
+-6.92166
+ -9.75978
+ end_of_params 
+-6.81888
+ -9.75276
+ end_of_params 
+-6.71528
+ -9.74634
+ end_of_params 
+-6.5738
+ -9.73884
+ end_of_params 
+-6.4657
+ -9.73429
+ end_of_params 
+-6.35632
+ -9.73084
+ end_of_params 
+-6.2082
+ -9.72733
+ end_of_params 
+-6.09552
+ -9.72475
+ end_of_params 
+-5.98113
+ -9.72136
+ end_of_params 
+-5.82579
+ -9.71493
+ end_of_params 
+-5.7072
+ -9.7085
+ end_of_params 
+-5.58749
+ -9.70063
+ end_of_params 
+-5.42571
+ -9.68776
+ end_of_params 
+-5.30272
+ -9.67626
+ end_of_params 
+-5.17851
+ -9.66314
+ end_of_params 
+-5.01144
+ -9.64313
+ end_of_params 
+-4.88507
+ -9.6262
+ end_of_params 
+-4.75796
+ -9.60762
+ end_of_params 
+-4.58897
+ -9.58049
+ end_of_params 
+-4.46261
+ -9.55839
+ end_of_params 
+-4.3366
+ -9.53478
+ end_of_params 
+-4.16881
+ -9.50154
+ end_of_params 
+-4.04287
+ -9.47658
+ end_of_params 
+-3.91672
+ -9.4525
+ end_of_params 
+-3.74816
+ -9.4223
+ end_of_params 
+-3.62149
+ -9.40122
+ end_of_params 
+-3.49459
+ -9.38157
+ end_of_params 
+-3.32866
+ -9.35796
+ end_of_params 
+-3.20771
+ -9.34188
+ end_of_params 
+-3.09067
+ -9.32675
+ end_of_params 
+-2.93199
+ -9.30634
+ end_of_params 
+-2.80911
+ -9.28998
+ end_of_params 
+-2.68427
+ -9.27235
+ end_of_params 
+-2.51618
+ -9.24651
+ end_of_params 
+-2.38975
+ -9.2254
+ end_of_params 
+-2.26304
+ -9.20272
+ end_of_params 
+-2.09443
+ -9.1704
+ end_of_params 
+-1.96817
+ -9.14535
+ end_of_params 
+-1.84192
+ -9.12046
+ end_of_params 
+-1.67368
+ -9.08776
+ end_of_params 
+-1.5478
+ -9.06304
+ end_of_params 
+-1.42234
+ -9.03737
+ end_of_params 
+-1.29711
+ -9.01042
+ end_of_params 
+-1.13039
+ -8.97258
+ end_of_params 
+-1.00555
+ -8.94289
+ end_of_params 
+-0.839417
+ -8.90187
+ end_of_params 
+-0.71501
+ -8.87042
+ end_of_params 
+-0.590655
+ -8.83885
+ end_of_params 
+-0.424845
+ -8.79674
+ end_of_params 
+-0.300582
+ -8.76473
+ end_of_params 
+-0.176499
+ -8.73199
+ end_of_params 
+-0.0114155
+ -8.68699
+ end_of_params 
+0.112158
+ -8.65239
+ end_of_params 
+0.235508
+ -8.61729
+ end_of_params 
+0.399654
+ -8.57062
+ end_of_params 
+0.522744
+ -8.53651
+ end_of_params 
+0.645893
+ -8.5037
+ end_of_params 
+0.769205
+ -8.47215
+ end_of_params 
+0.93453
+ -8.43143
+ end_of_params 
+1.05909
+ -8.40155
+ end_of_params 
+1.22547
+ -8.3626
+ end_of_params 
+1.35047
+ -8.33437
+ end_of_params 
+1.4757
+ -8.30736
+ end_of_params 
+1.64308
+ -8.27341
+ end_of_params 
+1.76885
+ -8.24931
+ end_of_params 
+1.89475
+ -8.22611
+ end_of_params 
+2.06289
+ -8.19644
+ end_of_params 
+2.18921
+ -8.17515
+ end_of_params 
+2.31571
+ -8.15471
+ end_of_params 
+2.48102
+ -8.12947
+ end_of_params 
+2.6011
+ -8.1124
+ end_of_params 
+2.71774
+ -8.09709
+ end_of_params 
+2.87662
+ -8.07792
+ end_of_params 
+2.99968
+ -8.06331
+ end_of_params 
+3.12421
+ -8.04784
+ end_of_params 
+3.28181
+ -8.02674
+ end_of_params 
+3.39365
+ -8.01049
+ end_of_params 
+3.50076
+ -7.9937
+ end_of_params 
+3.64242
+ -7.96954
+ end_of_params 
+3.75064
+ -7.9497
+ end_of_params 
+3.85937
+ -7.92871
+ end_of_params 
+3.99789
+ -7.90034
+ end_of_params 
+4.09693
+ -7.87877
+ end_of_params 
+4.19315
+ -7.85667
+ end_of_params 
+4.33135
+ -7.82368
+ end_of_params 
+4.44262
+ -7.79715
+ end_of_params 
+4.5597
+ -7.77015
+ end_of_params 
+4.7125
+ -7.73678
+ end_of_params 
+4.82448
+ -7.7138
+ end_of_params 
+4.93555
+ -7.69233
+ end_of_params 
+5.08962
+ -7.66474
+ end_of_params 
+5.2122
+ -7.64454
+ end_of_params 
+5.33824
+ -7.6253
+ end_of_params 
+5.50496
+ -7.60144
+ end_of_params 
+5.62839
+ -7.58387
+ end_of_params 
+5.75083
+ -7.56568
+ end_of_params 
+5.90883
+ -7.54102
+ end_of_params 
+6.0235
+ -7.52329
+ end_of_params 
+6.13567
+ -7.50686
+ end_of_params 
+6.29294
+ -7.48574
+ end_of_params 
+6.41669
+ -7.47072
+ end_of_params 
+6.5438
+ -7.45679
+ end_of_params 
+6.71127
+ -7.44077
+ end_of_params 
+6.83489
+ -7.43067
+ end_of_params 
+6.95659
+ -7.42218
+ end_of_params 
+7.12009
+ -7.41309
+ end_of_params 
+7.24476
+ -7.4079
+ end_of_params 
+7.37157
+ -7.40414
+ end_of_params 
+7.49942
+ -7.40189
+ end_of_params 
+7.67102
+ -7.40127
+ end_of_params 
+7.79999
+ -7.4026
+ end_of_params 
+7.96666
+ -7.40665
+ end_of_params 
+8.08524
+ -7.4112
+ end_of_params 
+8.20051
+ -7.417
+ end_of_params 
+8.3583
+ -7.42718
+ end_of_params 
+8.48073
+ -7.4368
+ end_of_params 
+8.60649
+ -7.4482
+ end_of_params 
+8.77465
+ -7.46581
+ end_of_params 
+8.9006
+ -7.48079
+ end_of_params 
+9.02638
+ -7.49728
+ end_of_params 
+9.19489
+ -7.52178
+ end_of_params 
+9.32196
+ -7.54207
+ end_of_params 
+9.44988
+ -7.56408
+ end_of_params 
+9.62014
+ -7.59583
+ end_of_params 
+9.74745
+ -7.62142
+ end_of_params 
+9.87433
+ -7.64851
+ end_of_params 
+10.0425
+ -7.68689
+ end_of_params 
+10.168
+ -7.71737
+ end_of_params 
+10.2924
+ -7.74924
+ end_of_params 
+10.4572
+ -7.79431
+ end_of_params 
+10.5806
+ -7.83019
+ end_of_params 
+10.7034
+ -7.86763
+ end_of_params 
+10.8618
+ -7.91848
+ end_of_params 
+10.9757
+ -7.95685
+ end_of_params 
+11.0868
+ -7.99577
+ end_of_params 
+11.2348
+ -8.04998
+ end_of_params 
+11.3491
+ -8.09305
+ end_of_params 
+11.4658
+ -8.13745
+ end_of_params 
+11.623
+ -8.19795
+ end_of_params 
+11.742
+ -8.24466
+ end_of_params 
+11.8615
+ -8.29295
+ end_of_params 
+12.02
+ -8.35938
+ end_of_params 
+12.1382
+ -8.41076
+ end_of_params 
+12.2558
+ -8.46351
+ end_of_params 
+12.4115
+ -8.53602
+ end_of_params 
+12.5276
+ -8.59203
+ end_of_params 
+12.643
+ -8.64945
+ end_of_params 
+12.7958
+ -8.72811
+ end_of_params 
+12.9094
+ -8.78865
+ end_of_params 
+13.0222
+ -8.8505
+ end_of_params 
+13.168
+ -8.93313
+ end_of_params 
+13.2733
+ -8.99475
+ end_of_params 
+13.3752
+ -9.05603
+ end_of_params 
+13.5121
+ -9.14058
+ end_of_params 
+13.6172
+ -9.20629
+ end_of_params 
+13.7252
+ -9.27346
+ end_of_params 
+13.8699
+ -9.36254
+ end_of_params 
+13.9787
+ -9.42927
+ end_of_params 
+14.0869
+ -9.49642
+ end_of_params 
+14.2262
+ -9.58469
+ end_of_params 
+14.3261
+ -9.64956
+ end_of_params 
+14.4236
+ -9.7144
+ end_of_params 
+14.5566
+ -9.80547
+ end_of_params 
+14.6585
+ -9.87733
+ end_of_params 
+14.7605
+ -9.95094
+ end_of_params 
+14.8968
+ -10.0518
+ end_of_params 
+14.9993
+ -10.129
+ end_of_params 
+15.1012
+ -10.2067
+ end_of_params 
+15.2365
+ -10.3111
+ end_of_params 
+15.3382
+ -10.3896
+ end_of_params 
+15.44
+ -10.4678
+ end_of_params 
+15.5725
+ -10.5683
+ end_of_params 
+15.6688
+ -10.6401
+ end_of_params 
+15.7639
+ -10.7093
+ end_of_params 
+15.8912
+ -10.8004
+ end_of_params 
+15.9865
+ -10.8683
+ end_of_params 
+16.081
+ -10.9368
+ end_of_params 
+16.2041
+ -11.0282
+ end_of_params 
+16.2922
+ -11.0954
+ end_of_params 
+16.3776
+ -11.162
+ end_of_params 
+16.489
+ -11.2513
+ end_of_params 
+16.5708
+ -11.3189
+ end_of_params 
+16.651
+ -11.3867
+ end_of_params 
+16.754
+ -11.4763
+ end_of_params 
+16.8283
+ -11.5428
+ end_of_params 
+16.9006
+ -11.609
+ end_of_params 
+16.9944
+ -11.6974
+ end_of_params 
+17.0631
+ -11.764
+ end_of_params 
+17.1302
+ -11.8306
+ end_of_params 
+17.224
+ -11.9256
+ end_of_params 
+17.2982
+ -12.0009
+ end_of_params 
+17.375
+ -12.0781
+ end_of_params 
+17.4779
+ -12.1797
+ end_of_params 
+17.5553
+ -12.255
+ end_of_params 
+17.6329
+ -12.3299
+ end_of_params 
+17.7369
+ -12.4288
+ end_of_params 
+17.8108
+ -12.4991
+ end_of_params 
+17.8828
+ -12.5685
+ end_of_params 
+17.9834
+ -12.6666
+ end_of_params 
+18.0636
+ -12.7458
+ end_of_params 
+18.1467
+ -12.8286
+ end_of_params 
+18.2557
+ -12.9379
+ end_of_params 
+18.336
+ -13.019
+ end_of_params 
+18.4156
+ -13.1
+ end_of_params 
+18.5245
+ -13.212
+ end_of_params 
+18.6086
+ -13.3
+ end_of_params 
+18.6935
+ -13.3906
+ end_of_params 
+18.8055
+ -13.5131
+ end_of_params 
+18.8891
+ -13.6058
+ end_of_params 
+18.9726
+ -13.6989
+ end_of_params 
+19.0816
+ -13.8209
+ end_of_params 
+19.1597
+ -13.9093
+ end_of_params 
+19.2352
+ -13.9962
+ end_of_params 
+19.334
+ -14.1125
+ end_of_params 
+19.4066
+ -14.2001
+ end_of_params 
+19.478
+ -14.2881
+ end_of_params 
+19.5702
+ -14.4051
+ end_of_params 
+19.6361
+ -14.4911
+ end_of_params 
+19.7013
+ -14.5784
+ end_of_params 
+19.7917
+ -14.703
+ end_of_params 
+19.8616
+ -14.8022
+ end_of_params 
+19.9317
+ -14.9043
+ end_of_params 
+20.0225
+ -15.0411
+ end_of_params 
+20.0883
+ -15.1439
+ end_of_params 
+20.1522
+ -15.2465
+ end_of_params 
+20.2343
+ -15.3819
+ end_of_params 
+20.2938
+ -15.4807
+ end_of_params 
+20.3527
+ -15.5774
+ end_of_params 
+20.4315
+ -15.7033
+ end_of_params 
+20.491
+ -15.7956
+ end_of_params 
+20.5515
+ -15.887
+ end_of_params 
+20.6321
+ -16.0051
+ end_of_params 
+20.6924
+ -16.0909
+ end_of_params 
+20.752
+ -16.1734
+ end_of_params 
+20.8319
+ -16.2807
+ end_of_params 
+20.8931
+ -16.3603
+ end_of_params 
+20.9553
+ -16.4393
+ end_of_params 
+21.0421
+ -16.546
+ end_of_params 
+21.1113
+ -16.6288
+ end_of_params 
+21.1841
+ -16.7137
+ end_of_params 
+21.2831
+ -16.826
+ end_of_params 
+21.3585
+ -16.9092
+ end_of_params 
+21.4351
+ -16.9916
+ end_of_params 
+21.5379
+ -17.0992
+ end_of_params 
+21.6143
+ -17.177
+ end_of_params 
+21.6895
+ -17.2517
+ end_of_params 
+21.7897
+ -17.3485
+ end_of_params 
+21.8703
+ -17.4239
+ end_of_params 
+21.9557
+ -17.5019
+ end_of_params 
+22.0773
+ -17.6097
+ end_of_params 
+22.1688
+ -17.6885
+ end_of_params 
+22.2599
+ -17.7652
+ end_of_params 
+22.3817
+ -17.8647
+ end_of_params 
+22.4762
+ -17.9398
+ end_of_params 
+22.574
+ -18.0156
+ end_of_params 
+22.709
+ -18.1172
+ end_of_params 
+22.8118
+ -18.1924
+ end_of_params 
+22.9161
+ -18.2667
+ end_of_params 
+23.0567
+ -18.364
+ end_of_params 
+23.1601
+ -18.4334
+ end_of_params 
+23.2607
+ -18.4992
+ end_of_params 
+23.3929
+ -18.5831
+ end_of_params 
+23.4928
+ -18.6444
+ end_of_params 
+23.593
+ -18.7044
+ end_of_params 
+23.7292
+ -18.7834
+ end_of_params 
+23.8357
+ -18.8431
+ end_of_params 
+23.946
+ -18.9032
+ end_of_params 
+24.0962
+ -18.9824
+ end_of_params 
+24.2102
+ -19.0405
+ end_of_params 
+24.3253
+ -19.0974
+ end_of_params 
+24.4799
+ -19.1712
+ end_of_params 
+24.5966
+ -19.2249
+ end_of_params 
+24.714
+ -19.2772
+ end_of_params 
+24.8704
+ -19.3443
+ end_of_params 
+24.9873
+ -19.3924
+ end_of_params 
+25.1034
+ -19.4386
+ end_of_params 
+25.2574
+ -19.4973
+ end_of_params 
+25.3718
+ -19.5391
+ end_of_params 
+25.4846
+ -19.5788
+ end_of_params 
+25.6337
+ -19.6291
+ end_of_params 
+25.7438
+ -19.6652
+ end_of_params 
+25.8523
+ -19.7005
+ end_of_params 
+25.9951
+ -19.7473
+ end_of_params 
+26.1006
+ -19.7824
+ end_of_params 
+26.204
+ -19.8176
+ end_of_params 
+26.3395
+ -19.8656
+ end_of_params 
+26.4386
+ -19.9022
+ end_of_params 
+26.5357
+ -19.9393
+ end_of_params 
+26.6624
+ -19.9898
+ end_of_params 
+26.7543
+ -20.0279
+ end_of_params 
+26.8447
+ -20.0666
+ end_of_params 
+26.9614
+ -20.1185
+ end_of_params 
+27.0465
+ -20.1576
+ end_of_params 
+27.1292
+ -20.1969
+ end_of_params 
+27.2364
+ -20.2494
+ end_of_params 
+27.3146
+ -20.2886
+ end_of_params 
+27.391
+ -20.3271
+ end_of_params 
+27.4671
+ -20.3656
+ end_of_params 
+27.5052
+ -20.3849
+ end_of_params 
+27.5153
+ -20.39
+ end_of_params 
+27.5229
+ -20.3939
+ end_of_params 
+27.5265
+ -20.3957
+ end_of_params 
+27.5275
+ -20.3962
+ end_of_params 
+27.5302
+ -20.3976
+ end_of_params 
+27.5374
+ -20.4012
+ end_of_params 
+27.5497
+ -20.4076
+ end_of_params 
+27.5664
+ -20.4165
+ end_of_params 
+27.5784
+ -20.423
+ end_of_params 
+27.5898
+ -20.4294
+ end_of_params 
+27.6058
+ -20.4386
+ end_of_params 
+27.619
+ -20.4464
+ end_of_params 
+27.6328
+ -20.4548
+ end_of_params 
+27.6468
+ -20.4635
+ end_of_params 
+27.6528
+ -20.4674
+ end_of_params 
+27.6551
+ -20.4688
+ end_of_params 
+27.6565
+ -20.4698
+ end_of_params 
+27.6571
+ -20.4701
+ end_of_params 
+27.6572
+ -20.4702
+ end_of_params 
+27.6608
+ -20.4726
+ end_of_params 
+27.6677
+ -20.4771
+ end_of_params 
+27.6772
+ -20.4834
+ end_of_params 
+27.6911
+ -20.4929
+ end_of_params 
+27.6985
+ -20.4981
+ end_of_params 
+27.7022
+ -20.5008
+ end_of_params 
+27.7055
+ -20.5031
+ end_of_params 
+27.707
+ -20.5042
+ end_of_params 
+27.7074
+ -20.5045
+ end_of_params 
+27.7078
+ -20.5048
+ end_of_params 
+27.708
+ -20.5049
+ end_of_params 
+27.7081
+ -20.505
+ end_of_params 
+27.7088
+ -20.5055
+ end_of_params 
+27.7114
+ -20.5074
+ end_of_params 
+27.7164
+ -20.5111
+ end_of_params 
+27.7249
+ -20.5175
+ end_of_params 
+27.7318
+ -20.5228
+ end_of_params 
+27.7392
+ -20.5288
+ end_of_params 
+27.7472
+ -20.5353
+ end_of_params 
+27.7504
+ -20.5379
+ end_of_params 
+27.7514
+ -20.5388
+ end_of_params 
+27.7536
+ -20.5406
+ end_of_params 
+27.7563
+ -20.5429
+ end_of_params 
+27.76
+ -20.5462
+ end_of_params 
+27.7658
+ -20.5513
+ end_of_params 
+27.7716
+ -20.5566
+ end_of_params 
+27.7793
+ -20.5637
+ end_of_params 
+27.7913
+ -20.5752
+ end_of_params 
+27.8017
+ -20.5853
+ end_of_params 
+27.813
+ -20.5964
+ end_of_params 
+27.8308
+ -20.6144
+ end_of_params 
+27.8458
+ -20.63
+ end_of_params 
+27.8618
+ -20.6471
+ end_of_params 
+27.8844
+ -20.6719
+ end_of_params 
+27.9026
+ -20.6923
+ end_of_params 
+27.9214
+ -20.714
+ end_of_params 
+27.947
+ -20.7443
+ end_of_params 
+27.9665
+ -20.7682
+ end_of_params 
+27.9866
+ -20.7933
+ end_of_params 
+28.0131
+ -20.8276
+ end_of_params 
+28.0328
+ -20.8537
+ end_of_params 
+28.0523
+ -20.8802
+ end_of_params 
+28.0777
+ -20.9158
+ end_of_params 
+28.0962
+ -20.9425
+ end_of_params 
+28.1142
+ -20.969
+ end_of_params 
+28.1399
+ -21.0082
+ end_of_params 
+28.1612
+ -21.0414
+ end_of_params 
+28.1842
+ -21.0775
+ end_of_params 
+28.2151
+ -21.1266
+ end_of_params 
+28.2381
+ -21.1637
+ end_of_params 
+28.261
+ -21.2013
+ end_of_params 
+28.2928
+ -21.2542
+ end_of_params 
+28.3185
+ -21.2971
+ end_of_params 
+28.3458
+ -21.3421
+ end_of_params 
+28.3836
+ -21.4029
+ end_of_params 
+28.4126
+ -21.4492
+ end_of_params 
+28.4417
+ -21.4965
+ end_of_params 
+28.4781
+ -21.557
+ end_of_params 
+28.5016
+ -21.5968
+ end_of_params 
+28.5226
+ -21.6333
+ end_of_params 
+28.5532
+ -21.6875
+ end_of_params 
+28.5809
+ -21.7374
+ end_of_params 
+28.612
+ -21.7933
+ end_of_params 
+28.6525
+ -21.8662
+ end_of_params 
+28.6812
+ -21.9185
+ end_of_params 
+28.708
+ -21.9681
+ end_of_params 
+28.7453
+ -22.0392
+ end_of_params 
+28.7761
+ -22.0986
+ end_of_params 
+28.8092
+ -22.1623
+ end_of_params 
+28.8537
+ -22.2467
+ end_of_params 
+28.887
+ -22.3089
+ end_of_params 
+28.9204
+ -22.3699
+ end_of_params 
+28.9672
+ -22.4527
+ end_of_params 
+29.0053
+ -22.518
+ end_of_params 
+29.0457
+ -22.5856
+ end_of_params 
+29.1011
+ -22.676
+ end_of_params 
+29.1435
+ -22.7443
+ end_of_params 
+29.1863
+ -22.8133
+ end_of_params 
+29.2447
+ -22.908
+ end_of_params 
+29.2898
+ -22.9822
+ end_of_params 
+29.3352
+ -23.0584
+ end_of_params 
+29.3955
+ -23.1624
+ end_of_params 
+29.4406
+ -23.2423
+ end_of_params 
+29.4855
+ -23.3234
+ end_of_params 
+29.5444
+ -23.4324
+ end_of_params 
+29.5883
+ -23.5145
+ end_of_params 
+29.6323
+ -23.5968
+ end_of_params 
+29.6895
+ -23.7027
+ end_of_params 
+29.731
+ -23.7782
+ end_of_params 
+29.7714
+ -23.85
+ end_of_params 
+29.8301
+ -23.9513
+ end_of_params 
+29.8785
+ -24.0323
+ end_of_params 
+29.932
+ -24.1195
+ end_of_params 
+30.0041
+ -24.2339
+ end_of_params 
+30.0568
+ -24.3169
+ end_of_params 
+30.1081
+ -24.3984
+ end_of_params 
+30.1739
+ -24.5053
+ end_of_params 
+30.2211
+ -24.5838
+ end_of_params 
+30.2666
+ -24.6613
+ end_of_params 
+30.3277
+ -24.7689
+ end_of_params 
+30.3769
+ -24.8571
+ end_of_params 
+30.4264
+ -24.9474
+ end_of_params 
+30.4915
+ -25.0682
+ end_of_params 
+30.5394
+ -25.1592
+ end_of_params 
+30.5866
+ -25.2515
+ end_of_params 
+30.6498
+ -25.3784
+ end_of_params 
+30.6983
+ -25.4762
+ end_of_params 
+30.7479
+ -25.5752
+ end_of_params 
+30.815
+ -25.7091
+ end_of_params 
+30.8654
+ -25.8111
+ end_of_params 
+30.9152
+ -25.9145
+ end_of_params 
+30.9813
+ -26.0555
+ end_of_params 
+31.0312
+ -26.1636
+ end_of_params 
+31.0816
+ -26.2727
+ end_of_params 
+31.1501
+ -26.4203
+ end_of_params 
+31.203
+ -26.5321
+ end_of_params 
+31.2576
+ -26.6449
+ end_of_params 
+31.3317
+ -26.7927
+ end_of_params 
+31.3864
+ -26.8982
+ end_of_params 
+31.4419
+ -27.002
+ end_of_params 
+31.5205
+ -27.1442
+ end_of_params 
+31.5829
+ -27.2534
+ end_of_params 
+31.6474
+ -27.3633
+ end_of_params 
+31.7352
+ -27.5093
+ end_of_params 
+31.8013
+ -27.6193
+ end_of_params 
+31.8672
+ -27.7296
+ end_of_params 
+31.9551
+ -27.8765
+ end_of_params 
+32.0218
+ -27.9862
+ end_of_params 
+32.0893
+ -28.0945
+ end_of_params 
+32.1788
+ -28.2344
+ end_of_params 
+32.2441
+ -28.3359
+ end_of_params 
+32.3077
+ -28.4355
+ end_of_params 
+32.3902
+ -28.5683
+ end_of_params 
+32.4507
+ -28.6683
+ end_of_params 
+32.5098
+ -28.7685
+ end_of_params 
+32.5665
+ -28.8673
+ end_of_params 
+32.6386
+ -28.9969
+ end_of_params 
+32.6927
+ -29.0973
+ end_of_params 
+32.7676
+ -29.2391
+ end_of_params 
+32.826
+ -29.3508
+ end_of_params 
+32.884
+ -29.4623
+ end_of_params 
+32.9538
+ -29.5978
+ end_of_params 
+33.0013
+ -29.6922
+ end_of_params 
+33.0457
+ -29.7829
+ end_of_params 
+33.1066
+ -29.9115
+ end_of_params 
+33.155
+ -30.017
+ end_of_params 
+33.2051
+ -30.1285
+ end_of_params 
+33.2695
+ -30.2753
+ end_of_params 
+33.3156
+ -30.3823
+ end_of_params 
+33.3606
+ -30.4884
+ end_of_params 
+33.4217
+ -30.6354
+ end_of_params 
+33.4682
+ -30.7504
+ end_of_params 
+33.5125
+ -30.8623
+ end_of_params 
+33.5679
+ -31.0033
+ end_of_params 
+33.6076
+ -31.1028
+ end_of_params 
+33.6476
+ -31.2001
+ end_of_params 
+33.7064
+ -31.3378
+ end_of_params 
+33.7553
+ -31.448
+ end_of_params 
+33.8078
+ -31.5628
+ end_of_params 
+33.8761
+ -31.7079
+ end_of_params 
+33.9248
+ -31.8099
+ end_of_params 
+33.9718
+ -31.9084
+ end_of_params 
+34.0348
+ -32.0402
+ end_of_params 
+34.0829
+ -32.1397
+ end_of_params 
+34.1322
+ -32.2401
+ end_of_params 
+34.1994
+ -32.3764
+ end_of_params 
+34.2499
+ -32.4808
+ end_of_params 
+34.2993
+ -32.5856
+ end_of_params 
+34.3632
+ -32.7256
+ end_of_params 
+34.4096
+ -32.8309
+ end_of_params 
+34.4543
+ -32.9357
+ end_of_params 
+34.5105
+ -33.0731
+ end_of_params 
+34.5496
+ -33.1729
+ end_of_params 
+34.5869
+ -33.2713
+ end_of_params 
+34.635
+ -33.4039
+ end_of_params 
+34.6699
+ -33.5047
+ end_of_params 
+34.7038
+ -33.6063
+ end_of_params 
+34.7466
+ -33.7409
+ end_of_params 
+34.7767
+ -33.8405
+ end_of_params 
